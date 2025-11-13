@@ -7,15 +7,14 @@
 # Convert the temperatures to Fahrenheit and add them as a new Series with the same index
 import pandas as pd
 
-temp_in_celsius = [24,32,24,28,31]
-celsius_series = pd.Series(temp_in_celsius)
-print(f"The temperature in celsius \n{celsius_series}")
+def celsius_to_Fahrenheit(celsius):
 
-def celsius_to_fehrenheit(celsius):
-    fahrenheit = (celsius * 1.8) + 32
-    return fahrenheit
+    print("Converting the list into series")
+    celsius_series = pd.Series(celsius)
+    print(f"{celsius_series}\n")
+    Fahrenheit = (celsius_series * 1.8) +  32
+    print("Creating a new series")
+    Fahrenheit_series = pd.Series(Fahrenheit)
+    print(Fahrenheit_series)
 
-fahrenheit_series = celsius_series.apply(celsius_to_fehrenheit)
-print(f"The temperature in fahrenheit\n")
-
-print(fahrenheit_series)
+celsius_to_Fahrenheit([24,29,30,31,31,18])
