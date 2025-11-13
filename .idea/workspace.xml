@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab8d1a4-15f4-4156-8e6b-d8a1f1660bad" name="Changes" comment="Made the code and easy to use by defining the user defined functions">
-      <change afterPath="$PROJECT_DIR$/Task_5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dab8d1a4-15f4-4156-8e6b-d8a1f1660bad" name="Changes" comment="In this i carried the operations on the array like how we can extract the diagonal elements and sum them">
+      <change afterPath="$PROJECT_DIR$/Task_6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
     "Python.Task_3.executor": "Run",
     "Python.Task_4.executor": "Run",
     "Python.Task_5.executor": "Run",
+    "Python.Task_6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -127,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763025572516</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="In this i carried the operations on the array like how we can extract the diagonal elements and sum them">
+      <option name="closed" value="true" />
+      <created>1763026138466</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1763026138466</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -135,6 +143,7 @@
     <MESSAGE value="Explained with code and synopsis" />
     <MESSAGE value="As in the previous i took only one number ,here i made the changes to iterate it over the list of numbers" />
     <MESSAGE value="Made the code and easy to use by defining the user defined functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made the code and easy to use by defining the user defined functions" />
+    <MESSAGE value="In this i carried the operations on the array like how we can extract the diagonal elements and sum them" />
+    <option name="LAST_COMMIT_MESSAGE" value="In this i carried the operations on the array like how we can extract the diagonal elements and sum them" />
   </component>
 </project>
