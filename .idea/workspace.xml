@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab8d1a4-15f4-4156-8e6b-d8a1f1660bad" name="Changes" comment="In this i carried the operations on the array like how we can extract the diagonal elements and sum them">
-      <change afterPath="$PROJECT_DIR$/Task_6.py" afterDir="false" />
+    <list default="true" id="dab8d1a4-15f4-4156-8e6b-d8a1f1660bad" name="Changes" comment="Defined the dataframe as we using the pandas we dont need loops it does this backend using the c language ,and there is only 1 person who is above the 75th percentils">
+      <change afterPath="$PROJECT_DIR$/Task_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,9 @@
     "Python.Task_4.executor": "Run",
     "Python.Task_5.executor": "Run",
     "Python.Task_6.executor": "Run",
+    "Python.Task_7.executor": "Run",
+    "Python.Task_8.executor": "Run",
+    "Python.Task_9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
@@ -135,7 +139,31 @@
       <option name="project" value="LOCAL" />
       <updated>1763026138466</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Initial code">
+      <option name="closed" value="true" />
+      <created>1763028100112</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1763028100112</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Followed a structred way where we need to just call the function once and rest all the function handles">
+      <option name="closed" value="true" />
+      <created>1763028150642</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1763028150642</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Defined the dataframe as we using the pandas we dont need loops it does this backend using the c language ,and there is only 1 person who is above the 75th percentils">
+      <option name="closed" value="true" />
+      <created>1763028307461</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1763028307461</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -144,6 +172,9 @@
     <MESSAGE value="As in the previous i took only one number ,here i made the changes to iterate it over the list of numbers" />
     <MESSAGE value="Made the code and easy to use by defining the user defined functions" />
     <MESSAGE value="In this i carried the operations on the array like how we can extract the diagonal elements and sum them" />
-    <option name="LAST_COMMIT_MESSAGE" value="In this i carried the operations on the array like how we can extract the diagonal elements and sum them" />
+    <MESSAGE value="Initial code" />
+    <MESSAGE value="Followed a structred way where we need to just call the function once and rest all the function handles" />
+    <MESSAGE value="Defined the dataframe as we using the pandas we dont need loops it does this backend using the c language ,and there is only 1 person who is above the 75th percentils" />
+    <option name="LAST_COMMIT_MESSAGE" value="Defined the dataframe as we using the pandas we dont need loops it does this backend using the c language ,and there is only 1 person who is above the 75th percentils" />
   </component>
 </project>
